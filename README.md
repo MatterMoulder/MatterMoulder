@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm **Matter_Moulder**  
 
-🎓 **Computer Science Student** | 💻 **Developer** | 🎮 **Game Enthusiast** 🎵 **Music Lover**  
+🎓 **Computer Science Student** | 💻 **Developer** | 🎮 **Game Enthusiast** | 🎵 **Music Lover**  
 
 ---
 
