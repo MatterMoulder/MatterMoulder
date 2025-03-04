@@ -29,7 +29,7 @@ I'm currently in my second year of a **Bachelor of Science in Computer Science**
 
 ## 🔭 What I'm Working On  
 - 🚀 Enhancing **[Lyumix Minecraft Discord Auth Bot](https://github.com/MatterMoulder/Lyumix-Minecraft-Discord-Auth-Bot)**  
-- 🌍 Building a **map-based community app** with **Java & Spring Boot**  
+- 🌍 Building a **backend** for **map-based community app** using **Java & Spring Boot**  
 - 🆕 Experimenting with **Mojo**  
 
 ---
