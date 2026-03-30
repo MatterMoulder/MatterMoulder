@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-I'm currently in my second year of a **Bachelor of Science in Computer Science**, with a strong passion for developing efficient and innovative software solutions.  
+I'm currently in my third year of a **Bachelor of Science in Computer Science**, with a strong passion for developing efficient and innovative software solutions.  
 
 🛠️ I enjoy working with **Java, Python, TypeScript**, and databases like **MongoDB, PostgreSQL & Vertica**.  
 🎯 I specialize in **Discord bot development and backend solutions**.  
